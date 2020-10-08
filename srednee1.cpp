@@ -1,5 +1,5 @@
 ﻿ #include <iostream>
- #include <stdarg.h> 
+  
 
 float srednee(int x ...) {
 	float s = 0;
